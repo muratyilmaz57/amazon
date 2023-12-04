@@ -317,18 +317,7 @@ ul a {
 .copyright {
   padding-top: 10px;
 }
-.product-list-filter{
-  margin: 20px 0 20px 50px;
-  padding: 20px;
-}
 
-.product-list-filter select{
-  background-color: #000;
-  color: white;
-  padding: 7px 0;
-  width: 125px;
-
-}
 
 .product-list-container{
   margin-left:70px;
@@ -367,7 +356,7 @@ ul a {
 }
 
 .product-item-title{
-  background-color:rgba(40,40,40, 0.4);
+  /*background-color:rgba(40,40,40, 0.4);*/
   padding: 0 10px;
   font-size: 28px;
   font-weight: bold;
